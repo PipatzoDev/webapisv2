@@ -9,8 +9,8 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "CYBERDECK - Network Access Hub",
-  description: "Cyberpunk-style service hub with neural network access",
+  title: "Pipatzo - Servicios",
+  description: "servivios privados",
   generator: "v0.app",
   icons: {
     icon: [
